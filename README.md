@@ -1,4 +1,5 @@
 Product and Category Management
+
 This Spring Boot application is designed to manage products and categories with RESTful API endpoints. It provides full CRUD functionality for Category and Product entities, supports pagination, and implements a one-to-many relationship between categories and products.
 
 Overview
